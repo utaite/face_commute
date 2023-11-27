@@ -1,16 +1,7 @@
-# face_commute
+얼굴인식을 활용한 전자출결/출퇴근관리 [개인프로젝트]
+=
+#### 아주대학교 2-2 스마트생산개론 과제
 
-A new Flutter project.
+- 개발 기간 : 2023.11.25 ~ 2023.11.28
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 사용 기술 : Flutter, BLoC, RxDart, Google Map, Google ML Kit
